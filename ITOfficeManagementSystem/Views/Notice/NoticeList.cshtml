@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ITOfficeManagementSystem.Models.Notice>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Notice - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center; text-align: center;">
+    <p>
+        <a asp-controller="Notice" asp-action="AddNotice">Create New</a>
+    </p>
+    <h4>Notice Information List</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NoticeId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Details)
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoticeId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Details)
+                </td>
+                <td>
+                    <a asp-controller="Notice" asp-action="UpdateNotice" asp-route-id="@item.NoticeId" class="btn btn-sm btn-outline-success">Edit</a> |
+                    <a asp-controller="Notice" asp-action="NoticeDetails" asp-route-id="@item.NoticeId" class="btn btn-sm btn-outline-info">Details</a> |
+                    <a asp-controller="Notice" asp-action="DeleteNotice" asp-route-id="@item.NoticeId" class="btn btn-sm btn-outline-danger" data-toggle="modal" data-target="#deleteModal">Delete</a>
+                </td>
+                <!-- Delete Modal-->
+                <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="NoticeModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="NoticeModalLabel">Ready to Delete?</h5>
+                                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">Select "Delete" below if you are ready to delete this notice information.</div>
+                            <div class="modal-footer">
+                                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                                <form asp-controller="Notice" asp-action="DeleteNotice">
+                                    <input type="hidden" asp-for="@item.NoticeId" />
+                                    <input type="submit" value="Delete" class="btn btn-danger" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </tr>
+            }
+        </tbody>
+    </table>
+    
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>

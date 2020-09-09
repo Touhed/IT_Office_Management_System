@@ -1,0 +1,854 @@
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Password.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Password.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+F:\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Password.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\ViewUserRoleList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\CSC-470 (Software Engineering Lab)\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\ViewUserRoleList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutTest.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\ViewUserRoleList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Copy\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+C:\Users\touhe\Desktop\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogout.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\AddSalary.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\DeleteEmployeeSalary.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryDetails.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryList.cshtml.g.cs
+F:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\UpdateEmployeeSalary.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogout.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\AddSalary.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\DeleteEmployeeSalary.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\UpdateEmployeeSalary.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\AddEvent.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\DelateEvent.cshtml.g.cs
+E:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\UpdateEvent.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogout.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\AddSalary.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\DeleteEmployeeSalary.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\UpdateEmployeeSalary.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\AddEvent.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\DelateEvent.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\UpdateEvent.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+H:\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminActivities.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\AddTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\DeleteTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\TaskDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\TaskList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\UpdateTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\AddSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\DeleteEmployeeSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\UpdateEmployeeSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\AddEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\DeleteEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\UpdateEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\AddNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\DeleteNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\NoticeDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\NoticeList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\UpdateNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\10th Semester\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.deps.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.runtimeconfig.dev.json
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\bin\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfoInputs.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.AssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.input.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.TagHelpers.output.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorCoreGenerate.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminActivities.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UpdateAdmin.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\AddTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\DeleteTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\TaskDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\TaskList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\AssignTask\UpdateTask.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Attendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\AttendanceLogout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\DeleteAttendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\ScriptGenarate.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Attendance\UpdateAttendance.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\AddClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\ClientList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\DeleteClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Client\UpdateClient.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\AddSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\DeleteEmployeeSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\EmployeeSalaryList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\EmployeeSalary\UpdateEmployeeSalary.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\DeleteEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\AddEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\DeleteEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\EventList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Event\UpdateEvent.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\AddFeedback.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\DeleteFeedback.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\UpdateFeedback.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charts.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\PageNotFound.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScriptsGenarate.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tables.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\AddNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\DeleteNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\NoticeDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\NoticeList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Notice\UpdateNotice.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutITOMS.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\AddUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\DeleteUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Search.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UpdateUserRole.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\UserRoleList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\ForgetPassword.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cache
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.RazorTargetAssemblyInfo.cs
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.Views.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.dll
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.pdb
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csproj.CopyComplete
+D:\MY BOOKS\# IUBAT\Visual Projects\ITOfficeManagementSystem - Updated\ITOfficeManagementSystem\obj\Debug\netcoreapp2.1\ITOfficeManagementSystem.csprojAssemblyReference.cache

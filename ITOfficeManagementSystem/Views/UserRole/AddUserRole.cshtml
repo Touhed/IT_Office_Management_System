@@ -1,0 +1,51 @@
+﻿@model ITOfficeManagementSystem.Models.UserRole
+@{
+    ViewData["Title"] = "Add New UserRole";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserRole - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+<body style="background-color: darkgray;align-content: center;">
+    <div class="container" style="width: 60%; align-content: center;">
+        <form class="form-horizontal" asp-area="" asp-controller="UserRole" asp-action="AddUserRole" method="post">
+            <div class="text-success"><center><h3>@ViewBag.Success</h3></center></div>
+            <div asp-validation-summary="All"></div>
+            <h2 style="text-align: center;">Add User Role</h2>
+            <hr />
+            <div class="form-group row">
+                <label asp-for="UserType" class="col-sm-2 col-form-label">User Type: </label>
+                <div class="col-sm-10">
+                    @*<input type="email" class="form-control" asp-for="UserType" placeholder="Enter User Type">*@
+                    <select class="custom-select" asp-for="UserType">
+                        <option selected>----Select User Type----</option>
+                        <option value="Admin">Admin</option>
+                        <option value="Employee">Employee</option>
+                        <option value="Client">Customer</option>
+                    </select>
+                    <span asp-validation-for="UserType"></span>
+                </div>
+            </div>
+            <div class="form-group" style="padding-left: 30%;">
+                <input type="submit" value="Add User" class="btn btn-outline-success" /> |
+                <a asp-controller="UserRole" asp-action="UserRoleList" class="btn btn-outline-info">Back to List</a>
+            </div>
+        </form>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>

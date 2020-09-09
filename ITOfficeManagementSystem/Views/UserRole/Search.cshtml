@@ -1,0 +1,22 @@
+﻿@model ITOfficeManagementSystem.Models.UserRole
+@{
+    ViewData["Title"] = "UserRole Details";
+}
+
+<h1 style="text-align:center">User Role Details Information</h1>
+
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">User Id</td>
+                <td style="text-align:center; font-weight: bold;">User Type</td>
+            </tr>
+        </thead>
+
+        <tr>
+            <td style="text-align:center">@Model.UserRoleId</td>
+            <td style="text-align:center">@Model.UserType</td>
+        </tr>
+    </table>
+</div>

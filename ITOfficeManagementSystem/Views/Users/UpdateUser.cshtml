@@ -1,0 +1,106 @@
+﻿@model ITOfficeManagementSystem.ViewModels.UserVM
+
+@{
+    ViewData["Title"] = "Update User";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Users - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="text-align: center;">
+    <h2 style="text-align: center;">Update User Information</h2>
+    <hr />
+    <div class="container" style="width: 60%;">
+        <form class="form-horizontal" asp-controller="Users" asp-action="UpdateUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UserId" />
+
+            <div class="form-group row">
+                <label asp-for="UserId" class="col-sm-3 col-form-label">User Id: </label>
+                <div class="col-sm-9">
+                    <input asp-for="UserId" class="form-control" readonly />
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+            </div>
+            <fieldset class="form-group">
+                <div class="row">
+                    <label class="col-form-label col-sm-3 pt-0">User Type:</label>
+                    <div class="col-sm-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="UserType" asp-for="UserType" value="Admin">
+                            <label class="form-check-label" asp-for="UserType">Admin</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="UserType" asp-for="UserType" value="Employee">
+                            <label class="form-check-label" asp-for="UserType">Employee</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="UserType" asp-for="UserType" value="Client">
+                            <label class="form-check-label" asp-for="UserType">Customer</label>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+           
+            <div class="form-group row">
+                <label asp-for="UserName" class="col-sm-3 col-form-label">User Name: </label>
+                <div class="col-sm-9">
+                    <input asp-for="UserName" class="form-control" placeholder="Enter User Name" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Email" class="col-sm-3 col-form-label">Email: </label>
+                <div class="col-sm-9">
+                    <input asp-for="Email" class="form-control" placeholder="Enter User Email" type="email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Password" class="col-sm-3 col-form-label">Password: </label>
+                <div class="col-sm-9">
+                    <input asp-for="Password" class="form-control" placeholder="Enter User Password" type="text"/>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="ConfirmPassword" class="col-sm-3 col-form-label">Confirm Password: </label>
+                <div class="col-sm-9">
+                    <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" type="text"/>
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="UserRoleId" class="col-sm-3 col-form-label">User Role Id: </label>
+                <div class="col-sm-9">
+                    <input asp-for="UserRoleId" class="form-control" placeholder="Enter User Role Id" />
+                    <span asp-validation-for="UserRoleId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group" style="padding-left: 30%;">
+                <input type="submit" value="Update" class="btn btn-outline-success" /> |
+                <a asp-controller="Users" asp-action="UserList" class="btn btn-outline-info">Back to List</a>
+            </div>
+        </form>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>

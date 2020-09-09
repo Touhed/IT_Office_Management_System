@@ -1,0 +1,124 @@
+﻿@model ITOfficeManagementSystem.ViewModels.AttendanceVM
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Attendance - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center; text-align: center;">
+    <h4>Update Attendance Information</h4>
+    <hr />
+    <div class="container" style="width: 50%;">
+        <div class="text-success"><center><h3>@ViewBag.Success</h3></center></div>
+        <div asp-validation-summary="All"></div>
+        <form class="form-horizontal" asp-controller="Attendance" asp-action="UpdateAttendance">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AttendanceId" />
+
+            <div class="form-group row">
+                <label asp-for="AttendanceId" class="col-sm-3 col-form-label">Attendance Id: </label>
+                <div class="col-sm-9">
+                    <input asp-for="AttendanceId" class="form-control" readonly />
+                    <span asp-validation-for="AttendanceId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="EmployeeId" class="col-sm-3 col-form-label">Employee Id: </label>
+                <div class="col-sm-9">
+                    <input asp-for="EmployeeId" class="form-control" readonly />
+                    <span asp-validation-for="EmployeeId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="FirstName" class="col-sm-3 col-form-label">First Name: </label>
+                <div class="col-sm-9">
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="LastName" class="col-sm-3 col-form-label">Last Name: </label>
+                <div class="col-sm-9">
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Email" class="col-sm-3 col-form-label">Email: </label>
+                <div class="col-sm-9">
+                    <input asp-for="Email" class="form-control" type="email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Date" class="col-sm-3 col-form-label">Date: </label>
+                <div class="col-sm-9">
+                    <input asp-for="Date" class="form-control" type="date" />
+                    <span asp-validation-for="Date" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="LoginTime" class="col-sm-3 col-form-label">Login Time: </label>
+                <div class="col-sm-9">
+                    <input asp-for="LoginTime" class="form-control" />
+                    <span asp-validation-for="LoginTime" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="LogoutTime" class="col-sm-3 col-form-label">Logout Time: </label>
+                <div class="col-sm-9">
+                    <input asp-for="LogoutTime" class="form-control" />
+                    <span asp-validation-for="LogoutTime" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="LoginDuration" class="col-sm-3 col-form-label">Login Duration: </label>
+                <div class="col-sm-9">
+                    <input asp-for="LoginDuration" class="form-control" />
+                    <span asp-validation-for="LoginDuration" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="custom-control custom-checkbox small">
+                    <input type="checkbox" class="custom-control-input" asp-for="LoginStatus">
+                    <label class="custom-control-label" asp-for="LoginStatus">Login Status</label>
+                </div>
+            </div>
+
+            @*<div class="form-group">
+            <div class="checkbox">
+                <label>
+                    <input asp-for="LoginStatus" /> @Html.DisplayNameFor(model => model.LoginStatus)
+                </label>
+            </div>
+        </div>*@
+            <div class="form-group" style="padding-left: 30%;">
+                <input type="submit" value="Update" class="btn btn-outline-success" />|
+                <a asp-controller="Attendance" asp-action="AttendanceList" class="btn btn-outline-info">Back to List</a>
+            </div>
+        </form>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

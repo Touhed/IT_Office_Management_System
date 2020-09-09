@@ -1,0 +1,96 @@
+﻿@model List<ITOfficeManagementSystem.ViewModels.AttendanceVM>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Attendance - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center; text-align: center;">
+    <h3>Generate Attendance Report</h3>
+    <hr />
+    <!-- Topbar Search -->
+    <div class="container-fluid">
+        <form class="form-horizontal" asp-controller="Attendance" asp-action="ScriptGenarate" method="get">
+            <div class="input-group row">
+                <label class="col-md-2 col-form-label">Employee Id: </label>
+                <div class="col-md-2">
+                    <a asp-controller="Attendance" asp-action="ScriptGenerate" asp-route-id="id"></a>
+                    <input name="id" class="form-control bg-light" type="text" />
+                </div>
+                <label class="col-md-1 col-form-label">From: </label>
+                <div class="col-md-2">
+                    <a asp-controller="Attendance" asp-action="ScriptGenerate" asp-route-id="Date"></a>
+                    <input name="Date" class="form-control bg-light" type="date" />
+                </div>
+                <label class="col-md-1 col-form-label">To: </label>
+                <div class="col-md-2">
+                    <a asp-controller="Attendance" asp-action="ScriptGenerate" asp-route-id="Date"></a>
+                    <input name="Date" class="form-control bg-light" type="date" />
+                </div>
+                <div class="input-group-append col-md-2">
+                    <button class="btn btn-outline-primary" type="submit">
+                        <i class="fas fa-search fa-sm"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <hr />
+    <div id="script">
+        <h3>Attendance List</h3>
+        <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+            <thead>
+                <tr>
+                    <td style="text-align:center; font-weight: bold;">Employee Id</td>
+                    <td style="text-align:center; font-weight: bold;">First Name</td>
+                    <td style="text-align:center; font-weight: bold;">Last Name</td>
+                    <td style="text-align:center; font-weight: bold;">Date</td>
+                    <td style="text-align:center; font-weight: bold;">Login Time</td>
+                    <td style="text-align:center; font-weight: bold;">Logout Time</td>
+                    <td style="text-align:center; font-weight: bold;">Login Duration</td>
+                    <td style="text-align:center; font-weight: bold;">Total Duration</td>
+                </tr>
+            </thead>
+            @foreach (var a in Model)
+            {
+                <tr>
+                    <td style="text-align:center">@a.EmployeeId</td>
+                    <td style="text-align:center">@a.FirstName</td>
+                    <td style="text-align:center">@a.LastName</td>
+                    <td style="text-align:center">@a.Date.ToShortDateString()</td>
+                    <td style="text-align:center">@a.LoginTime</td>
+                    <td style="text-align:center">@a.LogoutTime</td>
+                    <td style="text-align:center">@a.LoginDuration</td>
+                    <td style="text-align:center">@a.TotalDuration</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>
+
+<div class="print">
+    <input class="btn btn-outline-success" type="button" onclick="printDiv('script')" value="Print" />
+    <script>
+        function printDiv(divName) {
+            var printContents = document.getElementById(divName).innerHTML;
+            var originalContents = document.body.innerHTML;
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalContents;
+        }</script>
+</div>

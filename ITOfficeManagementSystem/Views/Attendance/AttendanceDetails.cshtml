@@ -1,0 +1,84 @@
+﻿@model ITOfficeManagementSystem.ViewModels.AttendanceVM
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Attendance - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center;text-align: center;">
+    <div class="container" style="width: 60%;">
+        <h4>Attendance Details</h4>
+        <hr />
+        <table class="table-hover" style="width: 100%;">
+            <tr>
+                <th>Attendance Id:</th>
+                <td>@Model.AttendanceId</td>
+            </tr>
+            <tr>
+                <th>First Name:</th>
+                <td>@Model.FirstName</td>
+            </tr>
+            <tr>
+                <th>Last Name:</th>
+                <td>@Model.LastName</td>
+            </tr>
+            <tr>
+                <th>Email:</th>
+                <td>@Model.Email</td>
+            </tr>
+            <tr>
+                <th>Date:</th>
+                <td>@Model.Date</td>
+            </tr>
+            <tr>
+                <th>Login Time:</th>
+                <td>@Model.LoginTime</td>
+            </tr>
+            <tr>
+                <th>Logout Time:</th>
+                <td>@Model.LogoutTime</td>
+            </tr>
+            <tr>
+                <th>Login Duration:</th>
+                <td>@Model.LoginDuration</td>
+            </tr>
+            <tr>
+                <th>Login Status:</th>
+                @if (Model.LoginStatus == true)
+                {
+                    <td>logged In</td>
+                }
+                else
+                {
+                    <td>Logged Out</td>
+                }
+                @*<td>@Model.LoginStatus</td>*@
+            </tr>
+            <tr>
+                <th>Total Duration:</th>
+                <td>@Model.TotalDuration</td>
+            </tr>
+        </table>
+    </div><br />
+
+    <div>
+        @*<a asp-controller="Attendance" asp-action="UpdateAttendance" asp-route-id="@Model.AttendanceId" class="btn btn-outline-success">Edit</a>*@ |
+        <a asp-controller="Attendance" asp-action="AttendanceList" class="btn btn-outline-info">Back to List</a>
+    </div>
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>

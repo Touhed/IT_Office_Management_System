@@ -1,0 +1,102 @@
+﻿@model ITOfficeManagementSystem.ViewModels.EmployeeSalaryVM
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Employee - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center; text-align: center;">
+
+    <div class="container" style="width: 60%;">
+        <h4>Employee Salary Details</h4>
+        <hr />
+
+        <table class="table-hover" style="width: 100%;">
+            <tr>
+                <th>Salary Id:</th>
+                <td>@Model.SalaryId</td>
+            </tr>
+            <tr>
+                <th>Employee Id:</th>
+                <td>@Model.EmployeeId</td>
+            </tr>
+            <tr>
+                <th>First Name:</th>
+                <td>@Model.FirstName</td>
+            </tr>
+            <tr>
+                <th>Last Name:</th>
+                <td>@Model.LastName</td>
+            </tr>
+            <tr>
+                <th>Attendance Id:</th>
+                <td>@Model.AttendanceId</td>
+            </tr>
+            <tr>
+                <th>Login Duration:</th>
+                <td>@Model.LoginDuration</td>
+            </tr>
+            <tr>
+                <th>Basic Salary:</th>
+                <td>@Model.BasicSalary</td>
+            </tr>
+            <tr>
+                <th>Tax:</th>
+                <td>@Model.Tax</td>
+            </tr>
+            <tr>
+                <th>Benifits:</th>
+                <td>@Model.Benifits</td>
+            </tr>
+            <tr>
+                <th>Hour Price:</th>
+                <td>@Model.HourPrice</td>
+            </tr>
+            <tr>
+                <th>Total Hour Price:</th>
+                <td>@Model.TotalHourPrice</td>
+            </tr>
+            <tr>
+                <th>Net Salary:</th>
+                <td>@Model.NetSalary</td>
+            </tr>
+            <tr>
+                <th>Withdraw:</th>
+                <td>@Model.Withdraw</td>
+            </tr>
+            <tr>
+                <th>PaymentStatus:</th>
+                <td>
+                    @if (Model.PaymentStatus == 0)
+                    {
+                        <span>Paid</span>
+                    }
+                    else
+                    {
+                        <span>Due</span>
+                    }
+                </td>
+                @*<td>@Model.PaymentStatus</td>*@
+            </tr>
+        </table>
+    </div><br />
+    <div>
+        <a asp-controller="EmployeeSalary" asp-action="UpdateEmployeeSalary" asp-route-id="@Model.SalaryId" class="btn btn-outline-success">Edit</a> |
+        <a asp-controller="EmployeeSalary" asp-action="EmployeeSalaryList" class="btn btn-outline-info">Back to List</a>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>

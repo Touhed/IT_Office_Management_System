@@ -1,0 +1,661 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>- IT_OMS</title>
+
+    <environment include="Development">
+        <link href="~/vendor/fontawesome-free/css/all.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+        <link rel="stylesheet" href="~/css/sb-admin-2.css" />
+        <link rel="stylesheet" href="~/css/Profile.css" />
+        <link rel="stylesheet" href="~/css/main.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/util.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/sb-admin-2.min.css" asp-append-version="true" />
+    </environment>
+</head>
+
+<body id="page-top">
+    <section id="container">
+        <!-- Page Wrapper -->
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+                <!-- Sidebar - Brand -->
+                <li>
+                    <a class="sidebar-brand d-flex align-items-center justify-content-center">
+                        <div class="sidebar-brand-icon rotate-n-15">
+                            <i class="fas fa-laugh-wink"></i>
+                        </div>
+                        <div class="sidebar-brand-text mx-3">IT_OMS<sup></sup></div>
+                    </a>
+                </li>
+
+                @*@{ var a = Context.Session.GetString("UserRole");}*@
+                @if (Context.Session.GetString("UserRole") == "1")
+                {
+                    <!-- Divider -->
+                    <hr class="sidebar-divider my-0">
+                    <!-- Nav Item - Dashboard -->
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Admin" asp-action="Index">
+                            <i class="fas fa-fw fa-tachometer-alt"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <!-- Divider -->
+                    <hr class="sidebar-divider">
+                    <!-- Heading -->
+                    <div class="sidebar-heading">
+                        Interface
+                    </div>
+
+                    <!-- Nav Item - User Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUser" aria-expanded="true" aria-controls="collapseTwo">
+                            <i class="fas fa-fw fa-user-check"></i>
+                            <span>User Utilities</span>
+                        </a>
+                        <div id="collapseUser" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">User Activities: </h6>
+                                <a class="collapse-item" asp-controller="UserRole" asp-action="AddUserRole">Add User Role</a>
+                                <a class="collapse-item" asp-controller="UserRole" asp-action="UserRoleList">User Role List</a>
+                                <a class="collapse-item" asp-controller="Users" asp-action="Register">Add User</a>
+                                <a class="collapse-item" asp-controller="Users" asp-action="UserList">User List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- Divider -->
+                    <hr class="sidebar-divider">
+
+                    <!-- Nav Item - Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAdmin" aria-expanded="true" aria-controls="collapseTwo">
+                            <i class="fas fa-user-alt"></i>
+                            <span>Admin</span>
+                        </a>
+                        <div id="collapseAdmin" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Admin Activities: </h6>
+                                <a class="collapse-item" asp-controller="Admin" asp-action="AdminActivities">Admin Activities</a>
+                                <a class="collapse-item" asp-controller="Admin" asp-action="AddAdmin">Add Admin</a>
+                                <a class="collapse-item" asp-controller="Admin" asp-action="AdminList">Admin List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseEmployee" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-user-friends"></i>
+                            <span>Employee Utilities</span>
+                        </a>
+                        <div id="collapseEmployee" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Employee Activities:</h6>
+                                <a class="collapse-item" asp-controller="Employee" asp-action="AddEmployee">Add Employee</a>
+                                <a class="collapse-item" asp-controller="Employee" asp-action="EmployeeList">Employee List</a>
+                                <a class="collapse-item" asp-controller="EmployeeSalary" asp-action="AddSalary">Add Employee Salary</a>
+                                <a class="collapse-item" asp-controller="EmployeeSalary" asp-action="EmployeeSalaryList">Employee Salary List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAttendance" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-address-card"></i>
+                            <span>Attendance</span>
+                        </a>
+                        <div id="collapseAttendance" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Employee Attendance:</h6>
+                                <a class="collapse-item" asp-controller="Attendance" asp-action="Attendance">Give Attendance</a>
+                                <a class="collapse-item" asp-controller="Attendance" asp-action="AttendanceList">Attendance List</a>
+                                @*<a class="collapse-item" asp-controller="Attendance" asp-action="MonthlyAttendanceReport">Generate Monthely Report</a>
+                        <a class="collapse-item" asp-controller="Attendance" asp-action="YearlyAttendanceReport">Generate Yearly Report</a>*@
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseClient" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-people-carry"></i>
+                            <span>Customer Utilities</span>
+                        </a>
+                        <div id="collapseClient" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Customer Activities:</h6>
+                                <a class="collapse-item" asp-controller="Client" asp-action="AddClient">Add Customer</a>
+                                <a class="collapse-item" asp-controller="Client" asp-action="ClientList">Customer List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFeedback" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-comment-dots"></i>
+                            <span>Feedback Utilities</span>
+                        </a>
+                        <div id="collapseFeedback" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Feedback Activities:</h6>
+                                <a class="collapse-item" asp-controller="Feedback" asp-action="AddFeedback">Feedback</a>
+                                <a class="collapse-item" asp-controller="Feedback" asp-action="FeedbackList">Feedback List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTask" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-tasks"></i>
+                            <span>Task Utilities</span>
+                        </a>
+                        <div id="collapseTask" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Task Activities:</h6>
+                                <a class="collapse-item" asp-controller="AssignTask" asp-action="AddTask">Add Task</a>
+                                <a class="collapse-item" asp-controller="AssignTask" asp-action="TaskList">Task List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseEvent" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-square"></i>
+                            <span>Event Utilities</span>
+                        </a>
+                        <div id="collapseEvent" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Task Activities:</h6>
+                                <a class="collapse-item" asp-controller="Event" asp-action="AddEvent">Add Event</a>
+                                <a class="collapse-item" asp-controller="Event" asp-action="EventList">Event List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseNotice" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-clipboard-list"></i>
+                            <span>Notice Utilities</span>
+                        </a>
+                        <div id="collapseNotice" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Notice Activities:</h6>
+                                <a class="collapse-item" asp-controller="Notice" asp-action="AddNotice">Add Notice</a>
+                                <a class="collapse-item" asp-controller="Notice" asp-action="NoticeList">Notice List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    //Divider
+                    //<hr class="sidebar-divider">
+                    // Nav Item - Error Page 
+                    //<li class="nav-item">
+                    //    <a class="nav-link" asp-controller="Home" asp-action="PageNotFound">
+                    //        <i class="fas fa-fw fa-envelope"></i>
+                    //        <span>404 Page</span>
+                    //    </a>
+                    //</li>
+
+                    // Nav Item - Charts 
+                    //<li class="nav-item">
+                    //    <a class="nav-link" asp-controller="Home" asp-action="Charts">
+                    //        <i class="fas fa-fw fa-chart-area"></i>
+                    //        <span>Charts</span>
+                    //    </a>
+                    //</li>
+
+                    // Nav Item - Tables 
+                    //<li class="nav-item">
+                    //    <a class="nav-link" asp-controller="Home" asp-action="Tables">
+                    //        <i class="fas fa-fw fa-table"></i>
+                    //        <span>Tables</span>
+                    //    </a>
+                    //</li>
+
+                    <!-- Divider -->
+                    <hr class="sidebar-divider d-none d-md-block">
+                    <!-- Sidebar Toggler (Sidebar) -->
+                    <div class="text-center d-none d-md-inline">
+                        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+                    </div>
+                }
+                else if (Context.Session.GetString("UserRole") == "2")
+                {
+                    <!-- Divider -->
+                    <hr class="sidebar-divider my-0">
+                    <!-- Nav Item - Dashboard -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Employee" asp-action="Index">
+                            <i class="fas fa-fw fa-tachometer-alt"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+
+                    <!-- Divider -->
+                    <hr class="sidebar-divider">
+                    <!-- Heading -->
+                    <div class="sidebar-heading">
+                        Interface
+                    </div>
+
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseEmployee" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-user-friends"></i>
+                            <span>Employee Utilities</span>
+                        </a>
+                        <div id="collapseEmployee" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Employee Activities:</h6>
+                                <a class="collapse-item" asp-controller="Employee" asp-action="EmployeeList">Employee List</a>
+                                <a class="collapse-item" asp-controller="EmployeeSalary" asp-action="AddSalary">Add Employee Salary</a>
+                                <a class="collapse-item" asp-controller="EmployeeSalary" asp-action="EmployeeSalaryList">Employee Salary List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAttendance" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-address-card"></i>
+                            <span>Attendance</span>
+                        </a>
+                        <div id="collapseAttendance" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Employee Attendance:</h6>
+                                <a class="collapse-item" asp-controller="Attendance" asp-action="Attendance">Give Attendance</a>
+                                <a class="collapse-item" asp-controller="Attendance" asp-action="AttendanceList">Attendance List</a>
+                                @*<a class="collapse-item" asp-controller="Attendance" asp-action="MonthlyAttendanceReport">Generate Monthely Report</a>
+                        <a class="collapse-item" asp-controller="Attendance" asp-action="YearlyAttendanceReport">Generate Yearly Report</a>*@
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseClient" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-people-carry"></i>
+                            <span>Customer Utilities</span>
+                        </a>
+                        <div id="collapseClient" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Customer Activities:</h6>
+                                <a class="collapse-item" asp-controller="Client" asp-action="AddClient">Add Customer</a>
+                                <a class="collapse-item" asp-controller="Client" asp-action="ClientList">Customer List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="AssignTask" asp-action="TaskList">
+                            <i class="fas fa-fw fa-tasks"></i>
+                            <span>Task List</span>
+                        </a>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Feedback" asp-action="FeedbackList">
+                            <i class="fas fa-fw fa-comment-dots"></i>
+                            <span>Feedback List</span>
+                        </a>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Event" asp-action="EventList">
+                            <i class="fas fa-fw fa-square"></i>
+                            <span>Event List</span>
+                        </a>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Notice" asp-action="NoticeList">
+                            <i class="fas fa-fw fa-clipboard-list"></i>
+                            <span>Notice List</span>
+                        </a>
+                    </li>
+                    <!-- Divider -->
+                    <hr class="sidebar-divider d-none d-md-block">
+                    <!-- Sidebar Toggler (Sidebar) -->
+                    <div class="text-center d-none d-md-inline">
+                        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+                    </div>
+                }
+                else
+                {
+                    <!-- Divider -->
+                    <hr class="sidebar-divider my-0">
+                    <!-- Nav Item - Dashboard -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Client" asp-action="Index">
+                            <i class="fas fa-fw fa-tachometer-alt"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+
+                    <!-- Divider -->
+                    <hr class="sidebar-divider">
+                    <!-- Heading -->
+                    <div class="sidebar-heading">
+                        Interface
+                    </div>
+
+                    <!-- Nav Item - Cliebt Pages Collapse Menu -->
+                    <li class="nav-item">
+                        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFeedback" aria-expanded="true" aria-controls="collapsePages">
+                            <i class="fas fa-fw fa-comment-dots"></i>
+                            <span>Feedback Utilities</span>
+                        </a>
+                        <div id="collapseFeedback" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                            <div class="bg-white py-2 collapse-inner rounded">
+                                <h6 class="collapse-header">Feedback Activities:</h6>
+                                <a class="collapse-item" asp-controller="Feedback" asp-action="AddFeedback">Give Feedback</a>
+                                <a class="collapse-item" asp-controller="Feedback" asp-action="FeedbackList">Feedback List</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Event" asp-action="EventList">
+                            <i class="fas fa-fw fa-square"></i>
+                            <span>Event List</span>
+                        </a>
+                    </li>
+
+                    <!--Divider-->
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Error Page -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Notice" asp-action="NoticeList">
+                            <i class="fas fa-fw fa-clipboard-list"></i>
+                            <span>Notice List</span>
+                        </a>
+                    </li>
+                    <!-- Divider -->
+                    <hr class="sidebar-divider d-none d-md-block">
+                    <!-- Sidebar Toggler (Sidebar) -->
+                    <div class="text-center d-none d-md-inline">
+                        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+                    </div>
+                }
+            </ul>
+            <!-- End of Sidebar -->
+
+            <!-- Content Wrapper -->
+            <div id="content-wrapper" class="d-flex flex-column">
+                <!-- Main Content -->
+                <div id="content">
+                    <!-- Topbar -->
+                    <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+                        <!-- Sidebar Toggle (Topbar) -->
+                        <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        
+                        <div class="d-none d-sm-inline-block mr-auto" style="text-align: center; font-weight: bold; font-size: 30px">
+                            <span>IT Office Management System</span>
+                        </div>
+
+                        <!-- Topbar Search -->
+                        @*<form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+                            <div class="input-group">
+                                <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
+                                <div class="input-group-append">
+                                    <button class="btn btn-primary" type="button">
+                                        <i class="fas fa-search fa-sm"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>*@
+
+                        <!-- Topbar Navbar -->
+                        <ul class="navbar-nav ml-auto">
+                            <!-- Nav Item - Search Dropdown (Visible Only XS) -->
+                            @*<li class="nav-item dropdown no-arrow d-sm-none">
+                                <a class="nav-link dropdown-toggle" href="#" id="searchDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-search fa-fw"></i>
+                                </a>
+                                Dropdown - Search
+                                <div class="dropdown-menu dropdown-menu-right p-3 shadow animated--grow-in" aria-labelledby="searchDropdown">
+                                    <form class="form-inline mr-auto w-100 navbar-search">
+                                        <div class="input-group">
+                                            <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
+                                            <div class="input-group-append">
+                                                <button class="btn btn-primary" type="button">
+                                                    <i class="fas fa-search fa-sm"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </li>*@
+
+                            <!--Realtime Clock-->
+                            <li class="nav-item dropdown no-arrow mx-1">
+                                <a class="nav-link dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+                                    <span id="tick2"><b style="font-size: 16px;color: blue;">00:00:00 PM</b></span>
+                                </a>
+                                <script>
+                                    function show2() {
+                                        if (!document.all && !document.getElementById)
+                                            return
+                                        thelement = document.getElementById ? document.getElementById("tick2") : document.all.tick2
+                                        var Digital = new Date()
+                                        var hours = Digital.getHours()
+                                        var minutes = Digital.getMinutes()
+                                        var seconds = Digital.getSeconds()
+                                        var dn = "PM"
+                                        if (hours < 12)
+                                            dn = "AM"
+                                        if (hours > 12)
+                                            hours = hours - 12
+                                        if (hours == 0)
+                                            hours = 12
+                                        if (minutes <= 9)
+                                            minutes = "0" + minutes
+                                        if (seconds <= 9)
+                                            seconds = "0" + seconds
+                                        var ctime = hours + ":" + minutes + ":" + seconds + " " + dn
+                                        thelement.innerHTML = "<b style='font-size:16px;color:blue;'>" + ctime + "</b>"
+                                        setTimeout("show2()", 1000)
+                                    }
+                                    window.onload = show2
+                                </script>
+                            </li>
+
+                            <!-- Nav Item - Alerts -->
+                            <li class="nav-item dropdown no-arrow mx-1">
+                                <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-bell fa-fw"></i>
+                                    <!-- Counter - Alerts -->
+                                    <span class="badge badge-danger badge-counter"></span>
+                                </a>
+                                <!-- Dropdown - Alerts -->
+                                <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="alertsDropdown">
+                                    <h6 class="dropdown-header">
+                                        Alerts Center
+                                    </h6>
+                                    <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
+                                </div>
+                            </li>
+
+                            <!-- Nav Item - Messages -->
+                            <li class="nav-item dropdown no-arrow mx-1">
+                                <a class="nav-link dropdown-toggle" href="#" id="messagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-envelope fa-fw"></i>
+                                    <!-- Counter - Messages -->
+                                    <span class="badge badge-danger badge-counter"></span>
+                                </a>
+                                <!-- Dropdown - Messages -->
+                                <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="messagesDropdown">
+                                    <h6 class="dropdown-header">
+                                        Message Center
+                                    </h6>
+                                    <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
+                                </div>
+                            </li>
+
+                            <div class="topbar-divider d-none d-sm-block"></div>
+
+                            <!-- Nav Item - User Information -->
+                            <li class="nav-item dropdown no-arrow">
+                                <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <span class="mr-2 d-none d-lg-inline text-gray-600 small" style="font-weight: bold; font-size: 16px; color: black;">
+                                        @if (Context.Session.GetString("UserName") != null)
+                                        {
+                                            <span>@Context.Session.GetString("UserName") </span>
+                                        }
+                                        else
+                                        {
+                                            <span>Hi! @Context.Session.GetString("UserName") There</span>
+                                        }
+                                    </span>
+                                    <div class="centered">
+                                        @if (Context.Session.GetString("UserName") != null)
+                                        {
+                                            <img src="~/images/Admin.jpg" class="img-profile rounded-circle" width="50">
+                                        }
+                                        else
+                                        {
+                                            <img src="~/images/avator.png" class="img-profile rounded-circle" width="50">
+                                        }
+
+                                        @*<img class="img-profile rounded-circle" src="~/images/avator.png">*@
+                                    </div>
+
+                                </a>
+                                <!-- Dropdown - User Information -->
+                                <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" asp-controller="Home" asp-action="Logout" data-toggle="modal" data-target="#logoutModal">
+                                        <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                        Logout
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                    <!-- End of Topbar -->
+                    <!-- Begin Page Content -->
+                    <!-- End of Main Content -->
+                    <section id="main-content">
+                        <section class="wrapper">
+                        </section>
+                    </section>
+
+                    <!-- Footer -->
+                    <footer class="sticky-footer bg-white">
+                        <div class="container-fluid">
+                            @RenderBody()
+                            <hr />
+                            <div class="copyright text-center my-auto" style="font-weight: bold;">
+                                <span>Copyright &copy; 2020 - IT Office Management System &hearts; Group- Optimizre</span>
+                            </div>
+                        </div>
+                    </footer>
+                    <!-- End of Footer -->
+                </div>
+                <!-- End of Content Wrapper -->
+            </div>
+            <!-- End of Page Wrapper -->
+            <!-- Scroll to Top Button-->
+            <a class="scroll-to-top rounded" href="#page-top">
+                <i class="fas fa-angle-up"></i>
+            </a>
+
+            <!-- Logout Modal-->
+            <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="LogoutModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="LogoutModalLabel">Ready to Leave?</h5>
+                            <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">×</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                        <div class="modal-footer">
+                            <button class="btn btn-outline-secondary" type="button" data-dismiss="modal">Cancel</button>
+                            <a class="btn btn-outline-info" asp-controller="Home" asp-action="Logout">Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <environment exclude="Development">
+                <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                        asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                        asp-fallback-test="window.jQuery"
+                        crossorigin="anonymous"
+                        integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+                </script>
+                <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+                        asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                        asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                        crossorigin="anonymous"
+                        integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd">
+                </script>
+                <script src="~/js/site.min.js" asp-append-version="true"></script>
+                <script src="~/vendor/jquery/jquery.min.js"></script>
+                <script src="~/js/sb-admin-2.js"></script>
+                <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+                <!-- Core plugin JavaScript-->
+                <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+                <!-- Custom scripts for all pages-->
+                <!-- Page level plugins -->
+                <script src="~/vendor/chart.js/Chart.min.js"></script>
+                <!-- Page level custom scripts -->
+                <script src="~/js/demo/chart-area-demo.js"></script>
+                <script src="~/js/demo/chart-pie-demo.js"></script>
+                
+            </environment>
+            <!-- Bootstrap core JavaScript-->
+            
+            @RenderSection("Scripts", required: false)
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,61 @@
+﻿@model ITOfficeManagementSystem.Models.Event
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Event - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+<body style="align-content: center; text-align: center;">
+    <h4>Update Event Information</h4>
+    <hr />
+    <div class="container" style="width: 50%;">
+        <div class="text-success"><center><h3>@ViewBag.Success</h3></center></div>
+        <div asp-validation-summary="All"></div>
+        <form class="form-horizontal" asp-controller="Event" asp-action="UpdateEvent" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group row">
+                <label asp-for="EventId" class="col-sm-3 col-form-label">Event Id: </label>
+                <div class="col-sm-9">
+                    <input asp-for="EventId" class="form-control" readonly />
+                    <span asp-validation-for="EventId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="EventTitle" class="col-sm-3 col-form-label">Event Title: </label>
+                <div class="col-sm-9">
+                    <input asp-for="EventTitle" class="form-control" type="text" placeholder="Enter Event Title" />
+                    <span asp-validation-for="EventTitle" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="EventDetails" class="col-sm-3 col-form-label">Event Details: </label>
+                <div class="col-sm-9">
+                    <textarea asp-for="EventDetails" rows="5" class="form-control" placeholder="Enter Event Details"></textarea>
+                    <span asp-validation-for="EventDetails" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" style="padding-left: 30%;">
+                <input type="submit" value="Update" class="btn btn-outline-success" />|
+                <a asp-controller="Event" asp-action="EventList" class="btn btn-outline-info">Back to List</a>
+            </div>
+        </form>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

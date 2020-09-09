@@ -1,0 +1,85 @@
+﻿@model List<ITOfficeManagementSystem.ViewModels.UserRoleVM>
+@{
+    ViewData["Title"] = "User Role List";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserRole - IT_OMS</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+</head>
+
+<body style="align-content: center; text-align: center;">
+    <div class="container" style="width: 100%;">
+        <h1 style="text-align:center">User Role List</h1>
+
+        @*<div class="container" style="width: 20%; text-align: left;">
+                <div class="form-group">
+                    <div class="input-group-addon">
+                        <form asp-controller="UserRole" asp-action="Search">
+                            <input placeholder="Search By Id" class="form-control" name="id" />
+                            <a asp-controller="UserRole" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+                        </form>
+                    </div>
+                </div>
+            </div>*@
+
+        <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+            <thead>
+                <tr>
+                    <td style="text-align:center; font-weight: bold;">User Id</td>
+                    <td style="text-align:center; font-weight: bold;">User Type</td>
+                    <td style="text-align:center; font-weight: bold;">Action</td>
+                </tr>
+            </thead>
+            @foreach (var a in Model)
+            {
+             <tr>
+                <td style="text-align:center">@a.UserRoleId</td>
+                <td style="text-align:center">@a.UserType</td>
+                <td style="text-align:center">
+                    <a asp-action="UpdateUserRole" asp-route-id="@a.UserRoleId" class="btn btn-sm btn-outline-success">Edit</a>
+                    <a asp-action="UserRoleDetails" asp-route-id="@a.UserRoleId" class="btn btn-sm btn-outline-info">Details</a>
+                    <a asp-action="DeleteUserRole" asp-route-id="@a.UserRoleId" class="btn btn-sm btn-outline-danger" data-toggle="modal" data-target="#deleteModal">Delete</a>
+                </td>
+                <!-- Delete Modal-->
+                <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="UserRoleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="UserRoleModalLabel">Ready to Delete?</h5>
+                                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">Select "Delete" below if you are ready to delete this user role information.</div>
+                            <div class="modal-footer">
+                                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                                <form asp-controller="UserRole" asp-action="DeleteUserRole">
+                                    <input type="hidden" asp-for="@a.UserRoleId" />
+                                    <input type="submit" value="Delete" class="btn btn-outline-danger" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </tr>
+             }
+        </table>
+    </div>
+    
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/js/sb-admin-2.min.js"></script>
+</body>
+</html>
